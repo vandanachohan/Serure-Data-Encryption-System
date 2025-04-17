@@ -46,9 +46,8 @@ A simple encryption and decryption system built using **Streamlit** and **Crypto
 
 ## 🚀 Run the App
 
-You can run this app locally or use [Streamlit](https://streamlit.io/) to deploy it online:
+You can run this app locally or use https://serure-data-encryption-system-vandana-chohan.streamlit.app/
 
-4. Open the app in your browser at `http://localhost:8501` to interact with it.
 
 ## 🧑‍🤝‍🧑 Contributing
 
